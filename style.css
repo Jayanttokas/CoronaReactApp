@@ -1,0 +1,24 @@
+body{
+    font-family: 'Comfortaa', cursive!important;
+   
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 5px;
+  background-color:black;
+  color: white;
+  text-align: center;
+}
+
+.search{
+    width: 100%;
+    font-size: 20px;
+}
+
+.country-name{
+    margin-top: 10vh;
+}
