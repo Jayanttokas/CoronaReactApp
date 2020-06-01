@@ -16,9 +16,18 @@ body{
 
 .search{
     width: 100%;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .country-name{
     margin-top: 10vh;
+}
+
+.nav-item:hover{
+    background-color: snow;
+    border-radius: 10px;
+}
+
+.nav-link:hover{
+    color: black!important;
 }
