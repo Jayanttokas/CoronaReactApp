@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d09400f39c363a732329612982ea6a27",
+    "revision": "e616007f74746c54601b3eb5443d315f",
     "url": "/CoronaReactApp/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CoronaReactApp/static/js/2.7b9556f5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3212f54897403fd3670",
-    "url": "/CoronaReactApp/static/js/main.35006103.chunk.js"
+    "revision": "145078d904f003ec9976",
+    "url": "/CoronaReactApp/static/js/main.0704fbce.chunk.js"
   },
   {
     "revision": "38af03c3e682298adf8b",
