@@ -1,14 +1,12 @@
 body{
     font-family: 'Comfortaa', cursive!important;
-    margin: 0;
-    padding: 0;
 }
 
 .main-cont{
   background-image: url(background.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: auto;
+  background-size: cover;
   background-attachment: fixed;
 }
 
