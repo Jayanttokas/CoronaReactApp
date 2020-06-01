@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/CoronaReactApp/static/js/main.739c3993.chunk.js",
-    "main.js.map": "/CoronaReactApp/static/js/main.739c3993.chunk.js.map",
-    "runtime-main.js": "/CoronaReactApp/static/js/runtime-main.359bdce3.js",
-    "runtime-main.js.map": "/CoronaReactApp/static/js/runtime-main.359bdce3.js.map",
-    "static/js/2.e0403578.chunk.js": "/CoronaReactApp/static/js/2.e0403578.chunk.js",
-    "static/js/2.e0403578.chunk.js.map": "/CoronaReactApp/static/js/2.e0403578.chunk.js.map",
+    "main.js": "/CoronaReactApp/static/js/main.35006103.chunk.js",
+    "main.js.map": "/CoronaReactApp/static/js/main.35006103.chunk.js.map",
+    "runtime-main.js": "/CoronaReactApp/static/js/runtime-main.c37233d7.js",
+    "runtime-main.js.map": "/CoronaReactApp/static/js/runtime-main.c37233d7.js.map",
+    "static/js/2.7b9556f5.chunk.js": "/CoronaReactApp/static/js/2.7b9556f5.chunk.js",
+    "static/js/2.7b9556f5.chunk.js.map": "/CoronaReactApp/static/js/2.7b9556f5.chunk.js.map",
     "index.html": "/CoronaReactApp/index.html",
-    "precache-manifest.9a231750ee84f18ed37e584e5e23ada4.js": "/CoronaReactApp/precache-manifest.9a231750ee84f18ed37e584e5e23ada4.js",
+    "precache-manifest.00fb33fa9f8c356a8ebbfb738b58a10c.js": "/CoronaReactApp/precache-manifest.00fb33fa9f8c356a8ebbfb738b58a10c.js",
     "service-worker.js": "/CoronaReactApp/service-worker.js",
-    "static/js/2.e0403578.chunk.js.LICENSE.txt": "/CoronaReactApp/static/js/2.e0403578.chunk.js.LICENSE.txt"
+    "static/js/2.7b9556f5.chunk.js.LICENSE.txt": "/CoronaReactApp/static/js/2.7b9556f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.359bdce3.js",
-    "static/js/2.e0403578.chunk.js",
-    "static/js/main.739c3993.chunk.js"
+    "static/js/runtime-main.c37233d7.js",
+    "static/js/2.7b9556f5.chunk.js",
+    "static/js/main.35006103.chunk.js"
   ]
 }

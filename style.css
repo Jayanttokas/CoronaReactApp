@@ -1,6 +1,68 @@
 body{
     font-family: 'Comfortaa', cursive!important;
-   
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.heading-title{
+    color: black;
+    text-shadow: 0px 2px 6px red;
+    text-decoration: underline;
+    filter: contrast(500px);
+}
+
+.border-style{
+    border-bottom:2px solid red;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+
+}
+
+.icon-bg{
+    background-color: rgb(161, 4, 4);
+}
+
+.icon-bg:hover{
+    background-color: rgb(161, 4, 4);
+}
+
+.navigation{
+    background-color: black;
+}
+
+.country-text{
+    color:rgb(161, 4, 4)!important;
+    border-left :4px solid rgb(161, 4, 4);
+}
+
+.input-bg{
+    border:1px solid red!important;
+    font-size:25px;
+    background-color: black;
+    color: black!important;
+}
+
+.input-bg::placeholder{
+    color:red;
+}
+
+.input-bg:focus{
+    background-color: black;
+    color: red!important;
+    box-shadow: 0px 0px 0px 0px black!important;
+}
+
+.button-bg{
+    background-color: black;
+    color: red;
+}
+
+.button-bg:hover{
+    background-color: black;
+    box-shadow: 0px 0px 10px 1px red;
+    color: red;
 }
 
 .footer {
@@ -10,7 +72,10 @@ body{
   width: 100%;
   padding: 5px;
   background-color:black;
-  color: white;
+  color: red;
+  border-top: 1px solid red;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
   text-align: center;
 }
 
@@ -20,14 +85,33 @@ body{
 }
 
 .country-name{
+    font-size: 100px;
     margin-top: 10vh;
+    color: black;
+    text-shadow: 3px 1px 2px red;
+    border-radius: 20px;
+    filter: contrast(100px);
+    filter: saturate(100%);
 }
 
 .nav-item:hover{
-    background-color: snow;
     border-radius: 10px;
+    border: 1px groove red;
+    box-shadow: 0px 0px 10px 4px rgb(85, 2, 2);
 }
 
 .nav-link:hover{
-    color: black!important;
+    color: red!important;
+}
+
+.result-bg{
+    background-color: rgba(0, 0, 0, 0);
+    color: red;
+    border-bottom:1px solid red;
+}
+
+.shadow-box{
+    box-shadow: 0px 0px 10px red;
+    background-color: black;
+    border-radius: 10px;
 }
